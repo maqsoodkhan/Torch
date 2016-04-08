@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\RegistrationFeb9\\Source\\Library\\Torch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\RegistrationFeb9\\Source\\Library\\Torch\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\RegistrationFeb9\\Source\\Library\\Torch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\on.png",
+        "source": "D:\\RegistrationFeb9\\Source\\Library\\Torch\\app\\src\\main\\res\\drawable-xhdpi\\on.png"
+    },
+    {
+        "merged": "D:\\RegistrationFeb9\\Source\\Library\\Torch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\off.png",
+        "source": "D:\\RegistrationFeb9\\Source\\Library\\Torch\\app\\src\\main\\res\\drawable-xhdpi\\off.png"
+    }
+]
